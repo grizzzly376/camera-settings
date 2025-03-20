@@ -28,11 +28,11 @@
     "v4l2"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/dusionlike/camera-settings#readme",
-  "bugs": "https://github.com/dusionlike/camera-settings/issues",
+  "homepage": "https://github.com/grizzzly376/camera-settings#readme",
+  "bugs": "https://github.com/grizzzly376/camera-settings/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dusionlike/camera-settings.git"
+    "url": "git+https://github.com/grizzzly376/camera-settings.git"
   },
   "author": "dusionlike",
   "dependencies": {
